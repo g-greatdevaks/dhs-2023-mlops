@@ -8,7 +8,11 @@ Register for GCP Free Trial through which $300 Credits for a 90 days period can 
 Additionally, the GCP Free Tier can be leveraged.
 Check out the [official documentation](https://cloud.google.com/free) for more details.
 
-**Note:** Use GCP Cloud Shell for executing the rest of the terminal commands, as outlined in this section.
+**Notes:**
+
+- Use GCP Cloud Shell for executing the rest of the terminal commands, as outlined in this section.
+- **It is highly recommended to destroy the complete GCP setup post the workshop to avoid unnecessary charges/cost.** Check out [Deleting GCP Projects](https://cloud.google.com/resource-manager/docs/creating-managing-projects#shutting_down_projects) for more details.
+- Stay on top of the Billing Reports and charges for the GCP Organization. Use [GCP Pricing Calculator](https://cloud.google.com/products/calculator) to estimate costs before using and GCP service.
 
 ### Create a Docker Hub Account
 
@@ -121,3 +125,7 @@ export REDIS_PASSWORD=$(kubectl get secret -n mlrun redis -o jsonpath="{.data.re
 # Note: The `redis_url` can be built using the following format.
 # redis://:<redis_password>@redis-master.mlrun.svc.cluster.local:6379
 ```
+
+## Disclaimer
+
+The workshop relies on using GCP Free Trial $300 Credits for demonstrations. It is highly recommended to stay on top of the cost and charges being incurred, and the credits being used/left. The attendees are encouraged to destroy the complete workshop related GCP setup after the workshop is concluded, to avoid incurring any additional unnecessary costs. The speaker nor any of the organizations / professional bodies / institutes the speaker is part of / associate with will be responsible for a situation where the attendee forgets to delete the resources created during the workshop and incurs any cost afterwards. The attendees understand that they will be solely responsible for the billing associated to GCP workloads, if any appears. The workshop is just 7-8 hours long and only needs one small sized GKE Cluster (only one 8 Core and 16 GB Worker Node is required; some small Persistent Volumes will be created as well).
