@@ -58,6 +58,8 @@ Throughout this 8-hour comprehensive workshop, we’ll guide you into the evolvi
   - Familiarity with Python
   - Understanding of Docker and Containers
 
+**Note:** For installation and configuration steps for the pre-requisites, follow the [notebooks/00-mlops-prerequisites/setup.md](/notebooks/00-mlops-prerequisites/setup.md)
+
 ### Promotional Video and Registration
 
 - Check out the promotional video [here](https://player.vimeo.com/video/845860397?h=26d0f117a1).
