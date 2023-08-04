@@ -27,10 +27,10 @@ Throughout this 8-hour comprehensive workshop, we’ll guide you into the evolvi
 
 #### Module 3: MLOps and Real World Scenarios
 
-- [Hands-on: MLOps Deployment on a Structured Dataset](./notebooks/01-mlops-deployment-structured-dataset.ipynb)
-- Hands-on: MLOps Deployment with NLP
+- [Hands-on: MLOps Deployment on a Structured Dataset](./notebooks/01-mlops-deployment-structured-dataset/01-mlops-deployment-structured-dataset.ipynb)
+- [Hands-on: MLOps Deployment with NLP](./notebooks/03-mlops-deployment-nlp/03-mlops-deployment-nlp.ipynb)
   - Bonus: Brief Introduction to Foundation Models and Prompt Engineering
-- Hands-on: MLOps Deployment with Computer Vision
+- [Hands-on: MLOps Deployment with Computer Vision](./notebooks/02-mlops-deployment-computer-vision/02-mlops-deployment-computer-vision.ipynb)
 
 #### Module 4: MLOps Governance
 
