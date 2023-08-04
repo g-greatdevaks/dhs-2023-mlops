@@ -1,6 +1,6 @@
 # Module 3: MLOps and Real World Scenarios: Get Hands-On
 
-## Part 0 - Checking the Pre-requisites
+## Part 0 - Checking the Pre-requisites (Supports MLRun Community Edition Setup Only)
 
 ### Register for GCP Free Trial
 
