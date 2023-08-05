@@ -71,9 +71,10 @@ Anmol Krishan Sachdeva</br>
 Hybrid Cloud Architect, Google</br>
 [LinkedIn@greatdevaks](https://www.linkedin.com/in/greatdevaks) | [Twitter@greatdevaks](https://www.twitter.com/greatdevaks)
 
-## Credits
+## Credits and References
 
-The demonstrations delivered as part of this workshop are inspired by the official [MLRun Demos](https://github.com/mlrun/demos/tree/1.2.x).
+- The demonstrations delivered as part of this workshop are inspired by the official [MLRun Demos](https://github.com/mlrun/demos/tree/1.2.x).
+- The illustrative diagrams are inspired from the [Google MLOps Whitepaper](https://cloud.google.com/resources/mlops-whitepaper).
 
 ## Disclaimer
 
